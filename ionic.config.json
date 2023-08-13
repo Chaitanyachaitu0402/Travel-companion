@@ -1,0 +1,7 @@
+{
+  "name": "TravelCompanionApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
