@@ -1,0 +1,73 @@
+.page{
+    height: 100vh;
+    overflow: auto;
+}
+.card{
+    margin-top : -70px !important ;
+}
+.title{
+    color: white;
+}
+.title2{
+    color: #ffffff;
+    text-align: left;
+}
+.title3{
+    color: #ffffff;
+    text-align: left;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: Arial;
+    margin-bottom: -5px;
+    margin-top: -0px;
+}
+.searchbar{
+    color: black;
+}
+IonSearchbar{
+    background-color: green;
+}
+::placeholder{
+    color: rgb(0, 0, 0);
+}
+.image{
+    align-items: center;
+    height: 10vh;
+    text-align: center;
+}
+.image img{
+    margin-top: 10px;
+}
+.custom-searchbar {
+  --background: #9EB384; 
+  color: black; 
+  --searchbar-search-icon-color: black;
+}
+.temp-details{
+    background: linear-gradient(to right,#435334,#9EB384);
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+    padding: 30px;
+    width: 90%;
+    justify-content: center;
+    position: absolute;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+.city{
+    width: 90%;
+    height: 10%;
+    background: linear-gradient(to right,#435334,#9EB384);
+    margin-top: 65%;
+    margin-left: 5%;
+    border-radius: 10px;
+}
+.city h1{
+    position: absolute;
+    margin-left: 5%;
+}
+
+
+  
+
